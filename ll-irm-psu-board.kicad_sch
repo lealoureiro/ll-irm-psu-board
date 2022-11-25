@@ -1,5 +1,21 @@
 (kicad_sch (version 20211123) (generator eeschema)
-  (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+
+  (uuid 693298d5-0c0d-43f8-95b5-3c0149311843)
+
+  (paper "A5")
+
+  (title_block
+    (title "LL IRM-03 Breakout Board")
+    (date "2022-11-25")
+    (rev "0.1")
+    (company "LL DIY")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
 )

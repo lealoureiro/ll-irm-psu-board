@@ -1,0 +1,2 @@
+Mains Connector: Phoenix Contact 1711026:SHDR2W110P0X500_1X2_1000X1120X
+5V Output: Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical

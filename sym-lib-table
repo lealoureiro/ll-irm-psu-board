@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "1711026")(type "KiCad")(uri "${KIPRJMOD}/components/Phoenix_Contact_1711026/1711026.kicad_sym")(options "")(descr ""))
+  (lib (name "IRM-03-5")(type "Legacy")(uri "${KIPRJMOD}/components/MeanWell_IRM-03-5/IRM-03-5.lib")(options "")(descr ""))
+)

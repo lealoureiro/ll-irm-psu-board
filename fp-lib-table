@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Phoenix_Contact_1711026")(type "KiCad")(uri "${KIPRJMOD}/components/Phoenix_Contact_1711026")(options "")(descr ""))
+  (lib (name "MeanWell_IRM-03-5")(type "KiCad")(uri "${KIPRJMOD}/components/MeanWell_IRM-03-5")(options "")(descr ""))
+)
